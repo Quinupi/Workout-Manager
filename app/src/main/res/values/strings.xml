@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Monster Gym</string>
+    <string name="lbl_salvar">Salvar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_deletar_exercicio">Deletar Exercicio(s)</string>
+    <string name="lbl_nome">Nome :</string>
+    <string name="lbl_categoria">Categoria :</string>
+    <string name="lbl_descricao">Descrição :</string>
+    <string name="lbl_peso">Peso :</string>
+    <string name="lbl_repetições">Repetições :</string>
+    <string name="lbl_series">Séries :</string>
+    <string name="title_activity_act_adiciona_exercicio">actAdicionaExercicio</string>
+    <string name="lbl_adicionar">Adicionar</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="facebook_app_id">111141189568059</string>
+    <string name="fb_login_protocol_scheme">fb111141189568059</string>
+</resources>

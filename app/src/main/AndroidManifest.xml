@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gym.monster.academymanager">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Academy Manager"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat"
+        >
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+
+        <activity android:name="com.gym.monster.academymanager.controll.ActMain">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.gym.monster.academymanager.controll.ActCadastroUsuario" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActConfiguracao" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActLogin"/>
+        <activity android:name="com.gym.monster.academymanager.controll.ActTreino" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActAdicionaChat" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActExibeTreino" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActCategoriaExercicio" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActExercicio" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActSalaChat" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActListaExercicios" />
+        <activity android:name="com.gym.monster.academymanager.controll.ActAdicionaExercicio"/>
+        <activity android:name="com.gym.monster.academymanager.controll.ActPerfil"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "537274762568",
+    "firebase_url": "https://academy-manager-d7668.firebaseio.com",
+    "project_id": "academy-manager-d7668",
+    "storage_bucket": "academy-manager-d7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537274762568:android:3155eba8d5fce1e1",
+        "android_client_info": {
+          "package_name": "com.gym.monster.academymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537274762568-upoh5aju0smcfajt5m496bb3ulbc0hd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8yGaefkZxrUDjTWK49suDnxRrlcRsuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
